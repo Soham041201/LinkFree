@@ -39,6 +39,7 @@ function Home() {
         </a>
       ))}
     </main>
+    </div>
   )
 }
 
